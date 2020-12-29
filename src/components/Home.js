@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactDom from 'react-dom';
 import { Redirect } from 'react-router-dom';
 import axios from 'axios';
-import image1 from './Image/login.svg';
+
 import {Link} from 'react-router-dom';
 import './CSS/Login.css';
 
